@@ -5,8 +5,9 @@
 <b>Tools:</b>     Photoshop, Wordpress, WooCommerce, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation, Tumblr (custom Theme), LocalStorage, Formspree API
 </pre>
 
-<br /><strong><a href="https://shopfxckbrand.tumblr.com/">View project</a></strong>
+&nbsp;<strong><a href="https://shopfxckbrand.tumblr.com/">View project</a></strong>
 
+<p><a href="https://shopfxckbrand.tumblr.com/"><img src="https://doylesee.github.io/fxck/thumbnail.jpg" /></a></p>
 <br />
 
 ## The Challenge
