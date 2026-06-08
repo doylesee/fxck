@@ -19,16 +19,16 @@ Years later, a unique business hurdle emerged as the brand decided to pause its 
 <br />
 
 ## Core Objectives
-**Comprehensive Brand Architecture**<br />
+🟠 **Comprehensive Brand Architecture**<br />
 Establish a cohesive streetwear brand identity, including logos, color palettes, and strict typography rules.
 
-**Intuitive E-Commerce Layout**<br />
+🟠 **Intuitive E-Commerce Layout**<br />
 Design and build a streamlined WordPress homepage layout optimized specifically for product discovery and social conversion.
 
-**Immersive Lookbook Integration**<br />
+🟠 **Immersive Lookbook Integration**<br />
 Build a custom media slider module to showcase seasonal collections and lookbooks dynamically.
 
-**Platform Migration & Creative Engineering**<br />
+🟠 **Platform Migration & Creative Engineering**<br />
 Reverse-engineer a custom Tumblr theme to function as a seamless, low-cost "faux" e-commerce site complete with a functional cart/checkout experience.
 
 <br />
@@ -66,16 +66,16 @@ To eliminate backend management fees, I integrated Formspree into the order exec
 <br />
 
 ## Results & Impact
-**Full-Scale Creative Execution**<br />
+✅ **Full-Scale Creative Execution**<br />
 Successfully launched a distinct streetwear brand identity and optimized online storefront entirely from scratch, utilizing a unified design-to-code workflow.
 
-**Unconventional Technical Ingenuity**<br />
+✅ **Unconventional Technical Ingenuity**<br />
 Overcame severe blogging platform limits by writing a custom state management system from scratch using LocalStorage and jQuery—simulating a full add-to-cart, remove-item, and form-routed checkout flow on Tumblr without requiring an expensive runtime database.
 
-**Massive Cost Optimization**<br />
+✅ **Massive Cost Optimization**<br />
 Safely decommissioned an expensive database-driven WordPress architecture, reducing the client's monthly hosting and platform maintenance fees significantly.
 
-**Lasting Brand Longevity**<br />
+✅ **Lasting Brand Longevity**<br />
 Maintained FXCK's digital footprint and cult-brand aesthetic online, ensuring past lookbooks and remaining archive inventory stayed accessible to their community.
 
 <br /><strong><a href="https://shopfxckbrand.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
