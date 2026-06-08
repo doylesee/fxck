@@ -31,6 +31,8 @@ Build a custom media slider module to showcase seasonal collections and lookbook
 **Platform Migration & Creative Engineering**<br />
 Reverse-engineer a custom Tumblr theme to function as a seamless, low-cost "faux" e-commerce site complete with a functional cart/checkout experience.
 
+<br />
+
 ## My Approach & Implementation
 ### 1. Brand Identity & WordPress E-Commerce Launch
 Having been immersed in the streetwear industry for years, it was an organic process to formulate FXCK's core brand styles and guidelines. This also allowed me to pull from years of creative experience and marry those artistic assets with my core WordPress expertise.
