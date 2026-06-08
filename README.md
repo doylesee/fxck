@@ -1,9 +1,9 @@
 ## Project Overview
 <pre>
-<b>Project:</b>   FXCK
-<b>Role:</b>      Brand Identity Designer, UI/UX Designer, & Lead Web Developer
-<b>Tools:</b>     Photoshop, Wordpress, WooCommerce, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
-           Tumblr (custom Theme), LocalStorage, Formspree API
+<b>Project:</b> FXCK
+<b>Role:</b>    Brand Identity Designer, UI/UX Designer, & Lead Web Developer
+<b>Tools:</b>   Photoshop, Wordpress, WooCommerce, PHP, MySQL, HTML, CSS, JS/jQuery, Foundation
+         Tumblr (custom Theme), LocalStorage, Formspree API
 </pre>
 
 &nbsp;<strong><a href="https://shopfxckbrand.tumblr.com/">View project</a></strong>
