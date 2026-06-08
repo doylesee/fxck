@@ -6,9 +6,9 @@
          Tumblr (custom Theme), LocalStorage, Formspree API
 </pre>
 
-&nbsp;<strong><a href="https://shopfxckbrand.tumblr.com/">View project</a></strong>
+&nbsp;<strong><a href="https://shopfxckbrand.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
 
-<p><a href="https://shopfxckbrand.tumblr.com/"><img src="https://doylesee.github.io/fxck/thumbnail.jpg" /></a></p>
+<p><a href="https://shopfxckbrand.tumblr.com/" rel="noopener noreferrer"><img src="https://doylesee.github.io/fxck/thumbnail.jpg" /></a></p>
 <br />
 
 ## The Challenge
@@ -78,4 +78,4 @@ Safely decommissioned an expensive database-driven WordPress architecture, reduc
 **Lasting Brand Longevity**<br />
 Maintained FXCK's digital footprint and cult-brand aesthetic online, ensuring past lookbooks and remaining archive inventory stayed accessible to their community.
 
-<br /><strong><a href="https://shopfxckbrand.tumblr.com/">View project</a></strong>
+<br /><strong><a href="https://shopfxckbrand.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
