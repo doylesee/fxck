@@ -6,9 +6,13 @@
          Tumblr (custom Theme), LocalStorage, Formspree API
 </pre>
 
-&nbsp;<strong><a href="https://shopfxckbrand.tumblr.com/" rel="noopener noreferrer">View project</a></strong>
 
-<p><a href="https://shopfxckbrand.tumblr.com/" rel="noopener noreferrer"><img src="https://doylesee.github.io/fxck/thumbnail.jpg" /></a></p>
+### Table of Contents
+* [The Challenge](#the-challenge)
+* [Core Objectives](#core-objectives)
+* [My Approach & Implementation](#my-approach--implementation)
+* [Results & Impact](#results--impact)
+* [View Project](https://shopfxckbrand.tumblr.com/)
 <br />
 
 ## The Challenge
