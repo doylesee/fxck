@@ -15,6 +15,10 @@
 * [View Project](https://shopfxckbrand.tumblr.com/)
 <br />
 
+<a href="https://shopfxckbrand.tumblr.com">
+  <img src="screenshot.jpg" alt="" width="100%">
+</a>
+
 ## The Challenge
 The streetwear brand FXCK required an online storefront that captured their bold, counter-culture aesthetic while offering a frictionless shopping experience. The initial challenge was to build a clean, product-first e-commerce store with zero pre-existing branding assets, requiring me to construct the entire visual identity from the ground up.
 
